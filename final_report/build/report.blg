@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'build/report.blg'
+[54] biber-darwin:340> INFO - === Sat May  7, 2022, 02:44:33
+[66] Biber.pm:418> INFO - Reading 'build/report.bcf'
+[136] Biber.pm:972> INFO - Found 5 citekeys in bib section 0
+[148] Biber.pm:4383> INFO - Processing section 0
+[156] Biber.pm:4574> INFO - Looking for bibtex file 'ref.bib' for section 0
+[157] bibtex.pm:1713> INFO - LaTeX decoding ...
+[161] bibtex.pm:1518> INFO - Found BibTeX data source 'ref.bib'
+[207] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[207] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[207] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[207] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[211] bbl.pm:654> INFO - Writing 'build/report.bbl' with encoding 'UTF-8'
+[213] bbl.pm:757> INFO - Output to build/report.bbl
+[214] Biber.pm:130> WARN - legacy month field 'August' in entry 'rips' is not an integer - this will probably not sort properly.
+[214] Biber.pm:132> INFO - WARNINGS: 1
