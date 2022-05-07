@@ -1,8 +1,8 @@
-PWD /Users/dpatel/Desktop/VFML_Final_Report
+PWD /Users/dpatel/Desktop/Projects/VFML/advance-topomap/final_report
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/dpatel/Desktop/VFML_Final_Report/report.tex
+INPUT /Users/dpatel/Desktop/Projects/VFML/advance-topomap/final_report/report.tex
 OUTPUT build/report.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
